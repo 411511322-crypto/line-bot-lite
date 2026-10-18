@@ -8,8 +8,6 @@
 - 真的接 LINE：`python line_bot_lite.py`（要 cloudflared、LINE 通行碼與 Channel secret，開起來時貼）
 
 ## 我改了什麼、跑起來怎樣
-- 模型：gemma4:e2b
-- 電腦配備：NVIDIA GeForce RTX 3050 Laptop GPU (4GB VRAM)、16 GB RAM、Intel Core i7-12700H
-- 一題耗時：待模擬測試測量
-- 改了：無
-- 卡在：無
+- 模型：gemma4:e2b／電腦：有獨立顯示卡（NVIDIA GeForce RTX 3050 Laptop GPU 4GB）、16 GB 記憶體／一題約 1 秒
+- 改了：沒改
+- 卡在：沒有
